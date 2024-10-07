@@ -1,11 +1,9 @@
-# Angular Cheatsheet
-Set of basic functionalities from Angular in one place. Thanks to http://foreach.pl for contribute
+# Angular Resources + Cheatsheet
 
-**Check also other Cheatsheets:**
+From Basic to Advance Cheatsheet could founded here also some usefull books to read for angular developement 
 
-[TypeScript](https://github.com/delprzemo/typescript-cheatsheet)
+> for more content visit [ParuiDev](https://paruidev.com)
 
-[ReactJS](https://github.com/delprzemo/react-cheatsheet)
 
 # Table of Contents
 
@@ -937,7 +935,7 @@ for example
 
 **How to mimick environment for components/services in tests?**
 
-Use TestBed. See [Unit tests](https://github.com/delprzemo/angular-cheatsheet#unit-tests "Unit tests")  
+Use TestBed. See [Unit tests](https://github.com/pratap360/Angular-Resources#unit-tests "Unit tests")  
 
 **What is Resolve interface?**
 
@@ -1005,7 +1003,7 @@ Use canActivateChild
 
 **What is ng-content in Angular?**
 
-See [ng-content](https://github.com/delprzemo/angular-cheatsheet/blob/master/README.md#content-projection "ng-content") 
+See [ng-content](https://github.com/pratap360/Angular-Resources/blob/master/README.md#content-projection "ng-content") 
 
 **How to create application with cutom prefix?**
 
@@ -1034,7 +1032,7 @@ ngIf won't generate element when condition result is fale, so html will be light
 **What is Done() function in tests?**
 
 We need 'done' to avoid test finishing before date was received
-See [done](https://github.com/delprzemo/angular-cheatsheet#unit-tests "done") 
+See [done](https://github.com/pratap360/Angular-Resources#unit-tests "done") 
 
 **What "import", "providers" and "declarations" stand for in NgModule?**
 
@@ -1043,7 +1041,7 @@ declarations: [AppComponent], // components, pipes, directives
 imports: [BrowserModule, AppRoutingModule], // other modules
 providers: [], // services
 ```
-See [Sample module](https://github.com/delprzemo/angular-cheatsheet#sample-module-with-comments "Sample module") 
+See [Sample module](https://github.com/pratap360/Angular-Resources#sample-module-with-comments "Sample module") 
 
 **Explain the difference between Constructor and ngOnInit**
 
@@ -1079,7 +1077,7 @@ export class SthComponent  {
 **How to handle ngModel property in custom component?**
 
 Implement ControlValueAccessor interface.
-See [ngModel](https://github.com/delprzemo/angular-cheatsheet#ngmodel-in-custom-component "ngModel")  
+See [ngModel](https://github.com/pratap360/Angular-Resources#ngmodel-in-custom-component "ngModel")  
 
 **What is differenct between default and onPush change detector?**
 
